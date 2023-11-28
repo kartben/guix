@@ -1,0 +1,5 @@
+# https://docs.zephyrproject.org/latest/guides/modules.html
+name: guix
+build:
+  cmake-ext: True
+  kconfig-ext: True
